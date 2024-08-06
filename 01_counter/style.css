@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  background-color: thistle;
+}
+
+.count {
+  font-size: 3rem;
+}
+
+.minus-btn {
+  background-color: brown;
+}
+
+.plus-btn  {
+  background-color: brown;
+}
+
+.reset-btn {
+  background-color: brown;
+
+}
+
+
+.btn {
+  padding: 10px 16px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  color: aliceblue;
+}
+
+.changeBy {
+  width: 5rem;
+  height: 2rem;
+  font-size: 1rem;
+  margin: 16px 8px;
+}
